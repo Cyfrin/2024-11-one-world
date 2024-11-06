@@ -124,5 +124,6 @@ Compatibilities:
 
 [Cyfrin Private Audit Report](https://github.com/user-attachments/files/17599046/2024-10-29-one-world-project-v2.0.pdf)
 
+**Additional known issues detected by LightChaser can be found [here](https://github.com/Cyfrin/2024-11-one-world/issues/1)
 
 [//]: # (known-issues-close)
