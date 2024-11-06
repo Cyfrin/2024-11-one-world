@@ -22,7 +22,8 @@ Twitter: https://x.com/1W_Project
 Website: https://www.oneworldproject.io/
 
 ## Actors
-```
+
+```text
 Member: A user that has completed the signup and KYC process
 DAO Creator: A user that creates a DAO
 DAO Member: A user that holds a DAO's tokens. These users have the ability to make proposals for the DAO
